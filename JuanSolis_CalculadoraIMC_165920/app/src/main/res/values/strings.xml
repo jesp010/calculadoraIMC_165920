@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Asignacion4_calculadora_IMC</string>
+    <string name="estatura">Estatura</string>
+    <string name="peso">Peso</string>
+
+    <string name="hestatura">Ej: 1.75</string>
+    <string name="hpeso">Ej: 76.5</string>
+
+    <string name="calcular">Calcular IMC</string>
+    <string name="texto_IMC">Su IMC es:</string>
+    <string name="texto_valor_IMC">0</string>
+</resources>
